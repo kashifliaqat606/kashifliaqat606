@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hi, I'm **Muhammad Kashif**
 
-💡 **Data Science & Machine Learning Engineer | Pythob Backend Developer**  
+💡 **Data Science & Machine Learning Engineer | Python Backend Developer**  
 I build **AI-powered full-stack applications** that turn data into real-world intelligent systems.
 
 I enjoy working across the entire AI product lifecycle from **data preprocessing and model training** to **backend APIs and frontend dashboards**. My focus is on creating **scalable, production-ready ML systems** integrated into modern web apps.
