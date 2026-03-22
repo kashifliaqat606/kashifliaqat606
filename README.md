@@ -12,7 +12,6 @@ I enjoy working across the entire AI product lifecycle from **data preprocessing
 
 🎯 Experience in **forecasting systems, recommendation engines, and computer vision**  
 🧠 Strong in **Machine Learning, Feature Engineering, and Model Optimization**  
-🌐 Full-stack developer skilled in **MERN (MongoDB, Express, React, Node.js)**  
 ⚙️ ML deployment using **FastAPI, Docker, and Google Cloud**  
 🤝 Comfortable working with both **technical teams and business stakeholders**
 
