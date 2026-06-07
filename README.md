@@ -1,101 +1,109 @@
-# 💫 About Me  
-👋 Hi, I'm **Muhammad Kashif**  
+# About Me
 
-💡 **Machine Learning Engineer | Full Stack Web Developer | Python Backend Developer**  
-I build **AI-powered full-stack applications** that turn data into real-world intelligent systems.  
+Hi, I'm **Muhammad Kashif**
 
-I enjoy working across the entire AI product lifecycle — from **data preprocessing and model training** to **backend APIs, frontend development, and CMS-based solutions**. My focus is on creating **scalable, production-ready ML systems** integrated into modern web applications.  
+**Machine Learning Engineer | Python Developer | Web Scraping & Automation**
 
----
-
-## 🚀 Professional Highlights  
-
-- 🎯 Experience in **full-stack web development forecasting systems, recommendation engines, and computer vision**  
-- 🧠 Strong in **Machine Learning, Feature Engineering, Model Optimization, and backend architecture**  
-- ⚙️ ML deployment using **FastAPI, Django, Docker, and Google Cloud**  
-- 🌐 Skilled in **MERN Stack, Django-based apps, and CMS platforms like WordPress**  
-- 🤝 Comfortable working with both **technical teams and business stakeholders**  
+I build ML pipelines, data collection systems, and backend services. My work covers data ingestion, feature engineering, model training, REST API development, and deployment on cloud infrastructure.
 
 ---
 
-## 🔭 Current Focus  
-Building **production-ready ML pipelines**, **AI-integrated full-stack applications**, and **scalable web platforms**
+## Professional Highlights
+
+- Built end-to-end ML forecasting pipelines using XGBoost and supervised learning models on large-scale datasets, deployed via Docker and Google Cloud Platform
+- Developed distributed web scraping systems using Playwright, Scrapy, and Selenium with Redis-based job queues and multiprocessing workers
+- Deployed ML models as REST APIs using FastAPI and Django REST Framework
+- Hands-on with OpenAI API, LangChain, prompt engineering, and RAG pipeline development
+- Experienced in model interpretability using SHAP, statistical testing, and EDA on real-world datasets
+---
+
+## Current Focus
+- Web scraping systems with anti-bot handling and distributed architecture
+- LLM applications using LangChain, OpenAI API, and RAG
+- ML model deployment on cloud platforms
 
 ---
 
-## 🤝 Open to Collaborate On  
-- Machine Learning projects  
-- AI SaaS tools  
-- Full-stack web apps (**MERN / Django**)  
-- WordPress & CMS solutions  
-- Open-source AI systems  
+## Open to Collaborate On
+- Machine learning and data science projects
+- Web scraping and browser automation
+- LLM and Generative AI applications
+- Backend APIs with FastAPI or Django REST Framework
+- Open-source AI and data tools
 
 ---
 
-## 🛠 Exploring & Improving  
-- Advanced **MLOps**  
-- Distributed ML systems  
-- Scalable backend systems  
-- Modern frontend architectures  
+## Exploring & Improving
+- Prompt engineering and RAG architecture
+- MLOps and model monitoring
+- Distributed scraping at scale
+- Async Python for high-throughput systems
 
 ---
 
-## 🌱 Currently Learning  
-- Scalable ML system design  
-- Model monitoring  
-- Cloud-native AI deployment  
-- Advanced full-stack system design  
+## Ask Me About
+`Machine Learning` • `Web Scraping` • `Playwright` • `Scrapy` • `FastAPI` • `Django REST Framework` • `LangChain` • `OpenAI API` • `Feature Engineering` • `SHAP` • `Redis` • `Docker`
 
 ---
 
-## 💬 Ask Me About  
-`Machine Learning` • `MERN Stack` • `Django` • `FastAPI` • `Full Stack Development` • `WordPress` • `AI APIs` • `Feature Engineering`  
+## Fun Fact
+I enjoy turning messy, hard-to-get data into systems that actually make decisions, whether that's a scraper working around bot detection or an ML model explaining its own predictions with SHAP.
 
 ---
 
-## ⚡ Fun Fact  
-I love transforming messy real-world data into smart systems that actually make decisions 🚀  
+# Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashif-liaqat-09405425b)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kashifliaqat606)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifliaqat606@gmail.com)
 
 ---
 
-# 🌐 Connect With Me  
+# Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ali_606)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CNA8e8H17/?mibextid=wwXIfr)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashif-liaqat-09405425b)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifliaqat606@gmail.com)  
-
----
-
-# 💻 Core Tech Stack  
-
-## 🧠 Machine Learning & Data Science  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
+## Machine Learning & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-4B8BBE?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 
 ---
 
-## 🌐 Full-Stack Web Development  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+## LLM & NLP
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)
 
 ---
 
-## 🧩 CMS & Web Design  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+## Web Scraping & Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge)
 
+---
+
+## Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=kashifliaqat606&icon=0&color=0)](https://visitcount.itsvg.in)
