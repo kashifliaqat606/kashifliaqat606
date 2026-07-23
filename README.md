@@ -52,8 +52,6 @@ I enjoy turning messy, hard-to-get data into systems that actually make decision
 ---
 
 # Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashif-liaqat-09405425b)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kashifliaqat606)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifliaqat606@gmail.com)
 
